@@ -1,2 +1,2 @@
 # PolyGIM
-Integrative Analysis of Individual-Level Data and Summary Statistics For Ploytomous Disease
+Integrative Analysis of Individual-Level Data and Summary Statistics For Polytomous Disease
