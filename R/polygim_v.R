@@ -73,8 +73,8 @@ polygim_v <- function(form,int, models, ncase, nctrl, V){
 
   epsilon = 1e-3
   max_iter = 100
-  # display = FALSE
-  display = TRUE
+  display = FALSE
+  # display = TRUE
 
   cases = cases_ext(models)
   fit1 = mygim(x,y,u,cases,rhoe,nsample,beta0,V,lambda,nu,tau0,theta0,alphas,
