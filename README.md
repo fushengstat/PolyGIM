@@ -29,5 +29,5 @@ Please see the [PolyGIM user manual](https://github.com/fushengstat/PolyGIM/blob
 
 
 # References
-Fu S.,Purdue M. P., Zhang H., Qin J., Song L., Berndt S. I., & Yu K. (2023). Improve the model of disease subtype heterogeneity by leveraging external summary data. Manuscript. \
+Fu S., Purdue M. P., Zhang H., Qin J., Song L., Berndt S. I., & Yu K. (2023). Improve the model of disease subtype heterogeneity by leveraging external summary data. Manuscript. \
 Zhang, H., Deng, L., Schiffman, M., Qin, J., & Yu, K. (2020). Generalized integration model for improved statistical inference by leveraging external summary data. Biometrika, 107(3), 689-703. 
