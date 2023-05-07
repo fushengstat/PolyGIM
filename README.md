@@ -1,7 +1,7 @@
-# PolyGIM: A procedure to integrate individual-level data and summary data for polytomous outcome
+# PolyGIM: A procedure to integrate individual-level data and summary data for polytomous outcomes
 
 # Overview
-**PolyGIM** is a novel method that integrates individual-level data and summary statistics with polytomous outcome
+**PolyGIM** is a novel method that integrates individual-level data and summary statistics with polytomous outcomes
 
 # Installation
 **PolyGIM** PACKAGE can be installed via Github. To install the latest version of PolyGIM package via Github, run following commands in R:
