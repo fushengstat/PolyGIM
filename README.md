@@ -10,6 +10,23 @@ library(devtools)
 devtools::install_github("fushengstat/PolyGIM")
 ```
 
+# Usage
+This is a good start point for using **PolyGIM** package.
+```{r,include = FALSE}
+data(data, package = "PolyGIM")
+formula = "y~score"
+V = diag(length(models))
+fit = polygim_v(formula, int, models, ncase, nctrl, V)
+
+# estimate
+fit$theta
+# the corresponidng standard errors
+fit$se
+```
+
+Please see the [PolyGIM user manual](https://github.com/fushengstat/PolyGIM/blob/main/doc/PolyGIM.pdf) for more details. 
+
+
 
 # References
 Fu S.,Purdue M. P., Zhang H., Qin J., Song L., Berndt S. I., & Yu K. Improve the model of disease subtype heterogeneity by leveraging external summary data. Manuscript, 2023. \
