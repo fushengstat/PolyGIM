@@ -1,4 +1,5 @@
 #exportPattern("^[[:alpha:]]+")
-importFrom("stats", "as.formula", "coef", "glm", "model.matrix")
-importFrom("VGAM","multinomial","vglm")
-import(VGAM)
+importFrom(stats, as.formula, model.frame, model.matrix, coef, glm)
+importFrom(VGAM, multinomial,vglm)
+import(splines,stats4)
+export(polygim_v, polygim_opt)

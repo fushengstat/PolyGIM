@@ -20,10 +20,9 @@
 \examples{
   data(data, package="PolyGIM")
   formula = "y~score"
-  V = diag(length(models))
   fit = polygim_opt(formula, int, models, ncase, nctrl)
   # estimate
   fit$theta
-  # the corresponidng standard errors
+  # the corresponding standard errors
   fit$se
 }

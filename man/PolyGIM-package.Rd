@@ -32,5 +32,4 @@ Sheng Fu, Kai Yu
   Biometrika. asaa014, https://doi.org/10.1093/biomet/asaa014
 }
 
-\keyword{Case-control studies; Disease subtype heterogeneity; Empirical likelihood; Genome-wide association studies;
-Polygenic risk score; Polytomous logistic regression model}
+%\keyword{Case-control studies; Disease subtype heterogeneity; Empirical likelihood; Genome-wide association studies; Polygenic risk score; Polytomous logistic regression model}

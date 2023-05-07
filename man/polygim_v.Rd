@@ -19,12 +19,13 @@ polygim_v(formula, data, models, ncase, nctrl, V)
 }
 
 \examples{
+  library("PolyGIM")
   data(data, package = "PolyGIM")
   formula = "y~score"
   V = diag(length(models))
   fit = polygim_v(formula, int, models, ncase, nctrl, V)
   # estimate
   fit$theta
-  # the corresponidng standard errors
+  # the corresponding standard errors
   fit$se
 }
