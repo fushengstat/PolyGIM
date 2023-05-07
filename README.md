@@ -24,7 +24,7 @@ fit$theta
 fit$se
 ```
 
-Please see the [PolyGIM user manual](https://github.com/fushengstat/PolyGIM/blob/main/doc/PolyGIM.pdf) and a fancy [gim vignette](https://cran.rstudio.com/web/packages/gim/vignettes/gim.html) for more details. 
+Please see the [PolyGIM user manual](https://github.com/fushengstat/PolyGIM/blob/main/doc/PolyGIM.pdf) and a fancy [GIM vignette](https://cran.rstudio.com/web/packages/gim/vignettes/gim.html) for more details. 
 
 
 
