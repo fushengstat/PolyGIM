@@ -20,7 +20,7 @@ fit = polygim_v(formula, int, models, ncase, nctrl, V)
 
 # estimate
 fit$theta
-# the corresponidng standard errors
+# the corresponding standard errors
 fit$se
 ```
 
