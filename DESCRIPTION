@@ -1,0 +1,19 @@
+Package: PolyGIM
+Type: Package
+Title: Integrative Analysis of Polytomous Individual-Level Data and
+        Summary Statistics From Subtypes
+Version: 1.0.0
+Date: 2023-5-6
+Author: Sheng Fu, Kai Yu
+Maintainer: Sheng Fu <fusheng1007@gmail.com>
+Description: A procedure that integrates individual-level and summary data from multiple external binary logistic regression models to fit the polytomous logistic regression (PLR) model, enabling more efficient statistical inference.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: VGAM
+RoxygenNote: 7.2.3
+Depends: R (>= 3.5.0)
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2023-05-07 01:46:52 UTC; shengfu
