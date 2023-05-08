@@ -23,8 +23,7 @@ fit$theta
 # the corresponding standard errors
 fit$se
 ```
-
-Please see the [PolyGIM user manual](https://github.com/fushengstat/PolyGIM/blob/main/doc/PolyGIM.pdf) and a fancy [GIM vignette](https://cran.rstudio.com/web/packages/gim/vignettes/gim.html) for more details. 
+PolyGIM employs a user interface similar to that of GIM. For more information on using the package, please consult the [user manual](https://github.com/fushengstat/PolyGIM/blob/main/doc/PolyGIM.pdf) and the [GIM vignette](https://cran.rstudio.com/web/packages/gim/vignettes/gim.html).
 
 
 
